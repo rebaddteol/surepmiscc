@@ -21,6 +21,5 @@ mail($recipient,$subject,$message,$headers);?>
 
 
 
-
 <script type="text/javascript">
 </script><meta HTTP-EQUIV="REFRESH" ">
